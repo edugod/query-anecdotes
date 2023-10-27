@@ -5,6 +5,7 @@ const App = () => {
 
   const handleVote = (anecdote) => {
     console.log('vote')
+    console.log('teste')
   }
 
   const anecdotes = [
